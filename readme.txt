@@ -1,3 +1,6 @@
+可以用于爆破wooyun.org的登陆账号。
+
+
 需要预安装如下程序 
 1、pytesseract （可以pip install pytesseract安装） 
 2、Python Imaging Library (PIL) 
